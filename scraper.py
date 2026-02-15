@@ -23,6 +23,21 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from threading import Lock
 
 class IPTVScraper:
+    @staticmethod
+    def safe_print(*args, **kwargs):
+        """Print safely with encoding error handling"""
+        try:
+            print(*args, **kwargs)
+        except UnicodeEncodeError:
+            # Fallback for terminals with encoding issues
+            try:
+                # Replace problematic characters
+                text = ' '.join(str(arg) for arg in args)
+                text = text.replace('→', '->').replace('✓', '[OK]').replace('✅', '[OK]')
+                print(text, **kwargs)
+            except:
+                pass  # Silent fail as last resort
+    
     def __init__(self, base_url="http://103.144.89.251", html_file=None, max_workers=8, mapping_file='channel_mapping.json'):
         """
         Initialize the scraper
@@ -54,11 +69,12 @@ class IPTVScraper:
             try:
                 with open(self.mapping_file, 'r', encoding='utf-8') as f:
                     self.channel_mapping = json.load(f)
-                print(f"Loaded {len(self.channel_mapping)} existing channel mappings")
+                self.safe_print(f"Loaded {len(self.channel_mapping)} existing channel mappings")
             except Exception as e:
-                print(f"Warning: Could not load channel mapping: {e}")
+                self.safe_print(f"Warning: Could not load channel mapping: {e}")
                 self.channel_mapping = {}
         else:
+            self.safe_print(f"No existing channel mappings found, starting fresh")
             print("No existing channel mappings found, starting fresh")
             self.channel_mapping = {}
     
@@ -67,9 +83,9 @@ class IPTVScraper:
         try:
             with open(self.mapping_file, 'w', encoding='utf-8') as f:
                 json.dump(self.channel_mapping, f, indent=2, ensure_ascii=False)
-            print(f"✓ Channel mapping saved ({len(self.channel_mapping)} channels)")
+            self.safe_print(f"✓ Channel mapping saved ({len(self.channel_mapping)} channels)")
         except Exception as e:
-            print(f"Warning: Could not save channel mapping: {e}")
+            self.safe_print(f"Warning: Could not save channel mapping: {e}")
     
     def _assign_channel_number(self, channel_name):
         """
@@ -213,10 +229,10 @@ class IPTVScraper:
                 }
                 
                 self.channels.append(channel_info)
-                print(f"{idx}. Stream {stream_number} → Channel #{channel_number}: {channel_name}")
+                self.safe_print(f"{idx}. Stream {stream_number} → Channel #{channel_number}: {channel_name}")
                 
             except Exception as e:
-                print(f"Error parsing channel item {idx}: {e}")
+                self.safe_print(f"Error parsing channel item {idx}: {e}")
                 continue
         
         # Sort by channel number
@@ -225,7 +241,7 @@ class IPTVScraper:
         # Save the updated mappings for persistence
         self._save_channel_mapping()
         
-        print(f"Successfully extracted {len(self.channels)} channels\n")
+        self.safe_print(f"Successfully extracted {len(self.channels)} channels\n")
     
     def fetch_m3u8_url(self, stream_number, idx=None, total=None, timeout=5):
         """
@@ -329,9 +345,9 @@ class IPTVScraper:
                         m3u8_url = future.result()
                         channel['m3u8_url'] = m3u8_url
                         status = "✓" if m3u8_url else "✗"
-                        print(f"[{idx}/{total}] {status} Channel #{channel['number']}: {channel['name']}")
+                        self.safe_print(f"[{idx}/{total}] {status} Channel #{channel['number']}: {channel['name']}")
                     except Exception as e:
-                        print(f"[{idx}/{total}] ✗ Channel #{channel['number']}: Error - {e}")
+                        self.safe_print(f"[{idx}/{total}] ✗ Channel #{channel['number']}: Error - {e}")
                 
                 # Small delay between batches if specified
                 if delay > 0:
@@ -364,14 +380,14 @@ class IPTVScraper:
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(output_data, f, indent=2, ensure_ascii=False)
         
-        print(f"\nJSON file saved: {output_path.absolute()}")
-        print(f"Total channels: {len(self.channels)}")
+        self.safe_print(f"\nJSON file saved: {output_path.absolute()}")
+        self.safe_print(f"Total channels: {len(self.channels)}")
         
         # Print summary
         working = sum(1 for c in self.channels if c['m3u8_url'])
         not_working = len(self.channels) - working
-        print(f"Working streams: {working}")
-        print(f"Failed streams: {not_working}")
+        self.safe_print(f"Working streams: {working}")
+        self.safe_print(f"Failed streams: {not_working}")
     
     def save_m3u(self, output_file='playlist.m3u'):
         """

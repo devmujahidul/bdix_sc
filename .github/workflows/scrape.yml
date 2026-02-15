@@ -50,18 +50,35 @@ jobs:
         id: changes
         run: |
           echo "::group::🔍 Checking for changes"
-          if git diff --quiet channels.json playlist.m3u channel_mapping.json; then
-            echo "changed=false" >> $GITHUB_OUTPUT
-            echo "❌ No changes detected in output files"
+          
+          # Check if files exist and have content
+          if [ -f channels.json ] && [ -s channels.json ] && [ -f playlist.m3u ] && [ -s playlist.m3u ]; then
+            echo "✅ Output files created successfully!"
+            echo "  - channels.json: $(wc -c < channels.json) bytes"
+            echo "  - playlist.m3u: $(wc -c < playlist.m3u) bytes"
+            echo "  - channel_mapping.json: $(wc -c < channel_mapping.json) bytes"
+            
+            # Stage all output files
+            git add channels.json playlist.m3u channel_mapping.json
+            
+            # Check if there are any changes to commit
+            if git diff --cached --quiet; then
+              echo "changed=false" >> $GITHUB_OUTPUT
+              echo "⚠️ Files exist but no changes detected (repo up to date)"
+            else
+              echo "changed=true" >> $GITHUB_OUTPUT
+              echo "✅ Changes detected! Ready to commit"
+              echo ""
+              echo "Files to commit:"
+              git diff --cached --name-only
+              echo ""
+              echo "Changes summary:"
+              git diff --cached --stat
+            fi
           else
-            echo "changed=true" >> $GITHUB_OUTPUT
-            echo "✅ Changes detected! Files have been updated"
-            echo ""
-            echo "Modified files:"
-            git diff --name-only
-            echo ""
-            echo "Changes summary:"
-            git diff --stat
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "❌ Output files not created or empty!"
+            ls -lah channels.json playlist.m3u 2>/dev/null || echo "Files not found"
           fi
           echo "::endgroup::"
       
@@ -76,9 +93,13 @@ jobs:
             echo "::group::📤 Committing changes to repository"
             git config --global user.name "GitHub Actions Bot"
             git config --global user.email "actions@github.com"
+            
+            # Ensure files are staged
             git add channels.json playlist.m3u channel_mapping.json
+            
             echo "📝 Creating commit..."
-            git commit -m "🤖 Auto: Updated channel data and mappings - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+            git commit -m "🤖 Auto: Updated channel data and mappings - $(date -u +'%Y-%m-%d %H:%M:%S UTC')" || true
+            
             echo "✅ Commit created successfully"
             echo ""
             echo "🚀 Pushing to repository..."
