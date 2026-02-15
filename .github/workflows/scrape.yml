@@ -107,13 +107,18 @@ jobs:
             echo "✅ Push completed successfully"
             echo "::endgroup::"
       
+      - name: 📅 Generate timestamp for release
+        id: timestamp
+        run: |
+          echo "date=$(date -u +'%Y%m%d-%H%M%S')" >> $GITHUB_OUTPUT
+      
       - name: 🏷️ Create Release (if changes detected)
         if: steps.changes.outputs.changed == 'true'
         uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: release-${{ github.run_number }}-$(date -u +'%Y%m%d-%H%M%S')
+          tag_name: release-${{ github.run_number }}-${{ steps.timestamp.outputs.date }}
           release_name: Channel Data Update #${{ github.run_number }}
           body: |
             ✅ Automated IPTV channel data update
