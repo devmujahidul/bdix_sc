@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "created": "2026-02-24 18:36:54 GMT+6",
+    "created": "2026-02-24 20:03:15 GMT+6",
     "disclaimer": "We do not host or serve any content. All content belongs to their respective owners."
   },
   "channels": [
@@ -9,644 +9,644 @@
       "name": "A SPORTS HD",
       "stream_id": "88",
       "logo": "http://103.144.89.251/assets/images/A SPORTS HD1745044782.png",
-      "m3u8_url": "http://103.144.89.251:8082/A.SPORTS.HD/index.m3u8?token=88c10a2db99eeebeebecab93f5d78f41959cfe57-20a8363138de4773d5a7f605bb6350c9-1771947110-1771936310&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/A.SPORTS.HD/index.m3u8?token=b676e3dc0bbbdfc943e9ddb917f12dccbac6daf1-90fa0911f90366fbd8b349e349975d71-1771952291-1771941491&remote=no_check_ip"
     },
     {
       "number": "10",
       "name": "AXN HD",
       "stream_id": "97",
       "logo": "http://103.144.89.251/assets/images/AXN HD1745045171.png",
-      "m3u8_url": "http://103.144.89.251:8082/AXN.HD/index.m3u8?token=61f24444bc62c8ed0d7b6ee47606ccaaca66b04f-8d39f44f94da7816cadc4d8eab700186-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/AXN.HD/index.m3u8?token=3c9faee16c2935f9f8c114fcb3f09fe398c9be0b-8fee1ced4b3bd181d7965fe6dfd3c9c5-1771952291-1771941491&remote=no_check_ip"
     },
     {
       "number": "11",
       "name": "BAL BHARAT",
       "stream_id": "50",
       "logo": "http://103.144.89.251/assets/images/BAL BHARAT1745041576.png",
-      "m3u8_url": "http://103.144.89.251:8082/ETV.BAL.BHARAT/index.m3u8?token=26fc9e0c373839da5586c83dc87ec2c7986a6b50-6fb8b671f30b3b86abd10cdcd9426376-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/ETV.BAL.BHARAT/index.m3u8?token=a3f6873aa165f8b6b40464848eeaac6df3d6478e-b2bfe915ed4e8da0fa19b86986c28532-1771952291-1771941491&remote=no_check_ip"
     },
     {
       "number": "12",
       "name": "BBC EARTH HD",
       "stream_id": "102",
       "logo": "http://103.144.89.251/assets/images/BBC EARTH HD1745150455.png",
-      "m3u8_url": "http://103.144.89.251:8082/BBC.Earth.HD/index.m3u8?token=a2cd1d6560d471fb227a5517863bd3f82e4a85c1-4db4d4735e7312efea33086f28024d3e-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/BBC.Earth.HD/index.m3u8?token=3610671df2b562abcfa0f16a1bb78a465848e459-f6d7956ad9e671e45ae8fe67cfcf835d-1771952291-1771941491&remote=no_check_ip"
     },
     {
       "number": "13",
       "name": "BBC NEWS",
       "stream_id": "55",
       "logo": "http://103.144.89.251/assets/images/BBC NEWS1745042816.png",
-      "m3u8_url": "http://103.144.89.251:8082/BBC.NEWS/index.m3u8?token=99b4fdc25581dbb16cb7ce8123d73b44f31ad3dd-6857ed9fbab99b403184752dcf4de645-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/BBC.NEWS/index.m3u8?token=e1e4021fa9aec1ad60ad0a6d2228a973800984dc-bbeb2ccd7ffecae9d3f7362fc5917039-1771952291-1771941491&remote=no_check_ip"
     },
     {
       "number": "14",
       "name": "CARTOON NETWORK",
       "stream_id": "8",
       "logo": "http://103.144.89.251/assets/images/CARTOON NETWORK1745033414.png",
-      "m3u8_url": "http://103.144.89.251:8082/CARTON.NETWORK.HD/index.m3u8?token=08c53c9535dc79ad6812356f535012b315e710b3-39299a70063ccd93e000bebba4476fa3-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/CARTON.NETWORK.HD/index.m3u8?token=abcada44e60b36504419a8016718fd3106f27489-4b929b2adf80ac9fa0fad42d68576fd5-1771952291-1771941491&remote=no_check_ip"
     },
     {
       "number": "15",
       "name": "CHANNEL 24",
       "stream_id": "82",
       "logo": "http://103.144.89.251/assets/images/CHANNEL 241745044263.png",
-      "m3u8_url": "http://103.144.89.251:8082/CHANNEL.24.HD/index.m3u8?token=5916461a3dbfa20c6fdb4ec33d4728451da01b8e-b9d35952993cd81c12655f48383378f1-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/CHANNEL.24.HD/index.m3u8?token=65ecd08cb907871810c01bc5de3291d02c43bd81-168980fee9d0013577c9739d6cbef667-1771952291-1771941491&remote=no_check_ip"
     },
     {
       "number": "16",
       "name": "CHANNEL I",
       "stream_id": "81",
       "logo": "http://103.144.89.251/assets/images/CHANNEL I1745044237.png",
-      "m3u8_url": "http://103.144.89.251:8082/CHANNEL.I.HD/index.m3u8?token=7f3934dc1b084848d469cad1735afe8b5f63ad59-6c5c93ce5a5d4d9af73968c3f744dd68-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/CHANNEL.I.HD/index.m3u8?token=92176988a11c022ba7ca2ff9ed8af2ce4c6fd655-830154bdf9ce4817bc1a4df03c50870b-1771952291-1771941491&remote=no_check_ip"
     },
     {
       "number": "17",
       "name": "COLORS BANGLA CINEMA",
       "stream_id": "47",
       "logo": "http://103.144.89.251/assets/images/COLORS BANGLA CINEMA1745041486.png",
-      "m3u8_url": "http://103.144.89.251:8082/COLORS.BANGLA.CINEMA/index.m3u8?token=8e366d88c9a81a23c46af294cdd61a97e136ae68-5c7f7fb1d9cdc4486ed3b4e5c593e67f-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/COLORS.BANGLA.CINEMA/index.m3u8?token=3aabde4536f1dddf737c71b4253a587afc93feb1-89c66fccfab9128102e662c33a10dbbf-1771952291-1771941491&remote=no_check_ip"
     },
     {
       "number": "18",
       "name": "COLORS BANGLA HD",
       "stream_id": "12",
       "logo": "http://103.144.89.251/assets/images/COLORS BANGLA HD1745033576.png",
-      "m3u8_url": "http://103.144.89.251:8082/COLORS.BANGLA.HD/index.m3u8?token=23e2d4ed2094944d25a9fc653c7c4b6827addcce-b6d7c804178bea4d03554a41eaa921be-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/COLORS.BANGLA.HD/index.m3u8?token=d82c0753c4d38c7c06f9b485761403cd9fd1bc1d-7db66d38a897681a5a10a12bac59ee98-1771952291-1771941491&remote=no_check_ip"
     },
     {
       "number": "19",
       "name": "COLORS CINEPLEX HD",
       "stream_id": "10",
       "logo": "http://103.144.89.251/assets/images/COLORS CINEPLEX HD1745033519.png",
-      "m3u8_url": "http://103.144.89.251:8082/COLORS.CINEPLEX.HD/index.m3u8?token=dd53f92f809633139e1fe4429910a59544812f79-41803e4df112f0ac3f32a42eacd7ee3a-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/COLORS.CINEPLEX.HD/index.m3u8?token=32344f885bced908b320e156450536b652d5791e-2f31da11632b89c3030c3c1159868e4e-1771952291-1771941491&remote=no_check_ip"
     },
     {
       "number": "2",
       "name": "ALJAZEETA HD",
       "stream_id": "85",
       "logo": "http://103.144.89.251/assets/images/ALJAZEETA HD1745044358.png",
-      "m3u8_url": "http://103.144.89.251:8082/ALJAZEERA.HD/index.m3u8?token=326ce7c9130efc4ce97aaa184408f5fe4064495b-9ea5865539e4ee492681fca609319146-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/ALJAZEERA.HD/index.m3u8?token=5b4c5d47372b6819c08978e4a82d3644f67622b7-c2ead2cefc6884d80cb6fc38eb7da078-1771952291-1771941491&remote=no_check_ip"
     },
     {
       "number": "20",
       "name": "COLORS HD",
       "stream_id": "4",
       "logo": "http://103.144.89.251/assets/images/COLORS HD1745031404.png",
-      "m3u8_url": "http://103.144.89.251:8082/COLORS.HD/index.m3u8?token=8d28fd7ca2b8c8a4df43706d85f9af1ca1f9b14a-29282356c43d07bd37beb39d8578a985-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/COLORS.HD/index.m3u8?token=fc6401b448aa667a5ee0a056075016193ab310a8-f9f1e1505ca10a82865e83ee805f8150-1771952291-1771941491&remote=no_check_ip"
     },
     {
       "number": "21",
       "name": "DISCOVERY HD",
       "stream_id": "22",
       "logo": "http://103.144.89.251/assets/images/discovery hd.png",
-      "m3u8_url": "http://103.144.89.251:8082/DISCOVERY.HD/index.m3u8?token=4a9bc75b18326fa9683adad0f902277371d74bfb-66ee5877f68e1d3274d94e1ea7d63c6b-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/DISCOVERY.HD/index.m3u8?token=b3ec361c85a27fba2278d9262b79ba028fd06fd1-61793b0ad9cbff38a1d0831196faec3d-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "22",
       "name": "DURANTA TV",
       "stream_id": "68",
       "logo": "http://103.144.89.251/assets/images/DURANTA TV1745043400.png",
-      "m3u8_url": "http://103.144.89.251:8082/DURANTA.TV.HD/index.m3u8?token=8020aac248d55e3bec53cebd525a9c1c314dd9f6-20f115d6e87bb697fa03f118c5912f05-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/DURANTA.TV.HD/index.m3u8?token=969468b9e6a78d480ad60f3301715b7c526d584d-096ff46cecaa3dea35d322c5e48f5aef-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "23",
       "name": "ENTERR 10",
       "stream_id": "84",
       "logo": "http://103.144.89.251/assets/images/ENTERR 101745044330.png",
-      "m3u8_url": "http://103.144.89.251:8082/ENTER10.BANGLA/index.m3u8?token=2f313b1315f85a9316621dba4f82023da7bb6b7e-88609d1749e3eb6ed581783e39d31682-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/ENTER10.BANGLA/index.m3u8?token=2fdd39f4c450e467f8b996ad0d0e3e540c5c5718-992a1439b6cbd12a04cc2c9475e359b7-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "24",
       "name": "EUROSPORTS HD",
       "stream_id": "40",
       "logo": "http://103.144.89.251/assets/images/EUROSPORTS HD1745040406.png",
-      "m3u8_url": "http://103.144.89.251:8082/EUROSPORTS.HD/index.m3u8?token=622921427b15f631f459e12fdc10a3b776e1b550-cbcbb9c76c67e1a3e2ceae9bb2973363-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/EUROSPORTS.HD/index.m3u8?token=6ece1e0b74dd35e1a56371203a0d257918d1bfbe-bf48b97021ef7f2e77658739cb99b5fe-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "25",
       "name": "FAST SPORTS HD",
       "stream_id": "87",
       "logo": "http://103.144.89.251/assets/images/FAST SPORTS HD1745044750.png",
-      "m3u8_url": "http://103.144.89.251:8082/FAST.SPORTS.HD/index.m3u8?token=a202b82a047275fb3f22e96fd02de924e9828918-768ac4828c5438c260044acc88e6d917-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/FAST.SPORTS.HD/index.m3u8?token=fafe7a7509258b8072398beb85d707401ae1142f-c12398290eefa84c05dfdc820397d1cc-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "26",
       "name": "GEO NEWS HD",
       "stream_id": "90",
       "logo": "http://103.144.89.251/assets/images/GEO NEWS HD1745044892.png",
-      "m3u8_url": "http://103.144.89.251:8082/GEO.NEWS.HD/index.m3u8?token=a3e96401bc97dde8dc69ed6c9cfaee10154d3f23-5cb9d0346a75045b205386ed13b56f79-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/GEO.NEWS.HD/index.m3u8?token=7950dfa384639edd37541434ac88a72c20dbdcd0-7c81e34c4a88816b07bb4172989b3bce-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "27",
       "name": "GOLF SPORTS",
       "stream_id": "66",
       "logo": "http://103.144.89.251/assets/images/GOLF SPORTS1745043338.png",
-      "m3u8_url": "http://103.144.89.251:8082/GOLF.SPORTS/index.m3u8?token=83383921d0d2792696eaaafad71756bf4b72457e-248ed5cf5c1001699ae8eb5e5fb0387a-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/GOLF.SPORTS/index.m3u8?token=990db73a03edd80f789a7c3f45e7cbf652594024-29c28faf6cea751d54634089495e8d17-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "28",
       "name": "GTV",
       "stream_id": "56",
       "logo": "http://103.144.89.251/assets/images/GTV1745042853.png",
-      "m3u8_url": "http://103.144.89.251:8082/GAZI.TV.HD/index.m3u8?token=b8560274104278b6c84d8905fca8e0f00f87d148-417bf01fbbf99bed0f984d52580e5a82-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/GAZI.TV.HD/index.m3u8?token=4969b333bf4beff0fd54392b6a246651d0619fbf-25ecab1075d38a8dc26d93675415eded-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "29",
       "name": "HBO HD",
       "stream_id": "98",
       "logo": "http://103.144.89.251/assets/images/HBO HD1745045202.png",
-      "m3u8_url": "http://103.144.89.251:8082/HBO.HD/index.m3u8?token=234f3f532618ab3fe463f0d6f62ee7742f2ce219-36332a72784880db5f7429f412192edf-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/HBO.HD/index.m3u8?token=350db0e0a7e2675c345988105e25c840a9af68da-15eab8c5ca2fd44d8255cad1f3326d89-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "3",
       "name": "AND FLIX HD",
       "stream_id": "35",
       "logo": "http://103.144.89.251/assets/images/AND FLIX HD1745040018.png",
-      "m3u8_url": "http://103.144.89.251:8082/AND.FLIX.HD/index.m3u8?token=4e23826555f537706857332c0a99026e8939401c-1cc7d9cef52ec8f4fad9f1a9718dad55-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/AND.FLIX.HD/index.m3u8?token=e099bb5911bcbd644acf6195012e84d1890fa764-e949db0f8c1f934178c144eb73fc977c-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "30",
       "name": "HISTORY TV HD",
       "stream_id": "15",
       "logo": "http://103.144.89.251/assets/images/HISTORY TV HD1745033679.png",
-      "m3u8_url": "http://103.144.89.251:8082/HISTORY.TV.18.HD/index.m3u8?token=6cc77f3f5915763db9cb251182fcc72cae6e1ee4-8cd323192a62b850c68317b4b39c2618-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/HISTORY.TV.18.HD/index.m3u8?token=9425bf3aad8a8f3673f924ab8749e408c463eb16-abc80b4439f06224716783659f0ab0bb-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "31",
       "name": "HITZ MUSIC",
       "stream_id": "70",
       "logo": "http://103.144.89.251/assets/images/HITZ MUSIC1745043478.png",
-      "m3u8_url": "http://103.144.89.251:8082/HITS.MUSIC.HD/index.m3u8?token=660a9419f0c0ea682237e3759b3c2798bf536567-d995b3cb49efcdf7dce1023543d56ddc-1771947111-1771936311&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/HITS.MUSIC.HD/index.m3u8?token=0ff3c6988bf5ff25205fdb99490d6f411a6e6b51-70de2ecbba6b2b45d06bc0b4efa52561-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "32",
       "name": "HUM TV",
       "stream_id": "89",
       "logo": "http://103.144.89.251/assets/images/HUM TV1745044837.png",
-      "m3u8_url": "http://103.144.89.251:8082/HUM.MASALA.TV/index.m3u8?token=a506686a44f77b2af26eef67f73a404c75766199-cdd41e965c5bec9c5dfd168f32287e7d-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/HUM.MASALA.TV/index.m3u8?token=17bb5bb7aee6d124b50633ae2c09b7df69003c2d-f08bfc9835b314f4b7c71801e4e5129d-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "33",
       "name": "HUNGAMA",
       "stream_id": "49",
       "logo": "http://103.144.89.251/assets/images/HUNGAMA1745041551.png",
-      "m3u8_url": "http://103.144.89.251:8082/HUNGAMA/index.m3u8?token=9d156ee0d7e040944a0a86eebde9215f744ff08a-c83c86f902a530a77aed8003a740d944-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/HUNGAMA/index.m3u8?token=435f12e24ce78a3e4bba1122e3ea311678a684c4-c3b3d7697c670fdeb68cee29f9e77f0d-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "34",
       "name": "INDEPENDENT TV",
       "stream_id": "77",
       "logo": "http://103.144.89.251/assets/images/INDEPENDENT TV1745044077.png",
-      "m3u8_url": "http://103.144.89.251:8082/INDEPENDENT.TV/index.m3u8?token=cf4b73026ad99cc92ff069d1ddaa621d3ea03539-00056b6de3e1b76ae8478c1f57742f2c-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/INDEPENDENT.TV/index.m3u8?token=3fd8d485db2183d3a683e60a82ee5472ec4af7dc-339ea42103d39b0ad437d48892591cbe-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "35",
       "name": "JALSHA MOVIES HD",
       "stream_id": "19",
       "logo": "http://103.144.89.251/assets/images/JALSHA MOVIES HD1745034005.png",
-      "m3u8_url": "http://103.144.89.251:8082/JALSHA.MOVIES.HD/index.m3u8?token=b5a69b3492ef69bd276136ecc695969628ba46a9-532842d861f29959583b207a669e2ca1-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/JALSHA.MOVIES.HD/index.m3u8?token=961ce9fead610b7e3cd07b7ed44a561f91d4b781-1242b501e9a61e1fdc2d08d27550f42b-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "36",
       "name": "JAMUNA TV",
       "stream_id": "76",
       "logo": "http://103.144.89.251/assets/images/JAMUNA TV1745044052.png",
-      "m3u8_url": "http://103.144.89.251:8082/JAMUNA.TV/index.m3u8?token=17219a3e5f18d8b4ba0649033739ca361dbdab98-839638d1c6a4a5c46e3509aba67ba673-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/JAMUNA.TV/index.m3u8?token=e66cf586f3b4075eee3c4720f886476d5f5f2fac-0991f05b6ac4d176a2bfbadca81d6198-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "37",
       "name": "LOTUS TV",
       "stream_id": "91",
       "logo": "http://103.144.89.251/assets/images/LOTUS TV1745044960.png",
-      "m3u8_url": "http://103.144.89.251:8082/Lotus.TV.HD/index.m3u8?token=d183f9ee4dd17d4036e84966f9afd925503ef906-7301d6c4fd88754fd5ff888e10e79bd0-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/Lotus.TV.HD/index.m3u8?token=56c94bf085e7f6efdec19275f46a427c9e25e571-27a8563beed87b653773a59238d06ca9-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "38",
       "name": "LOVE NATURE",
       "stream_id": "67",
       "logo": "http://103.144.89.251/assets/images/LOVE NATURE1745043370.png",
-      "m3u8_url": "http://103.144.89.251:8082/LOVE.NATURE.HD/index.m3u8?token=04d1474c58b40174ff655a3b185cc79bc6884615-c5a7a6e696d075c159f06f8702ca1054-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/LOVE.NATURE.HD/index.m3u8?token=e7e24ad3f215f7fa57b7decf4110ef538c71c601-32a31e04fa878bdd6b5e01512ff5a68b-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "39",
       "name": "MAASRANGA HD",
       "stream_id": "78",
       "logo": "http://103.144.89.251/assets/images/MAASRANGA HD1745044117.png",
-      "m3u8_url": "http://103.144.89.251:8082/MASRANGA.TV.HD/index.m3u8?token=e6986e6af2e3dbec6d58dbe439eef946f57a2519-2694a2f678cc1a7af096182c6e2bb358-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/MASRANGA.TV.HD/index.m3u8?token=2f75e6909cbc4b121d1473eed99391c18c85228a-115a80df394387190b768ffb98c91811-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "4",
       "name": "AND PICTURS HD",
       "stream_id": "5",
       "logo": "http://103.144.89.251/assets/images/AND PICTURS HD1745031440.png",
-      "m3u8_url": "http://103.144.89.251:8082/ANT.PICTURS.HD/index.m3u8?token=9f99b2c2f9eff7e9e5ee7f59a1a5da5ce2df6404-7e6d52e1475d4274991f0774028ec90e-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/ANT.PICTURS.HD/index.m3u8?token=edc7f0ab8ea63170dd5d475b12c755f5bc34b67d-085d9445ce3b3bf668326a31619d76b8-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "40",
       "name": "MADANI TV HD",
       "stream_id": "83",
       "logo": "http://103.144.89.251/assets/images/MADANI TV HD1745044303.png",
-      "m3u8_url": "http://103.144.89.251:8082/MADANI.TV.HD/index.m3u8?token=aad75287c1f7ab0611174d5de4e91428ce5f1fb3-1c7eeba1676847fb8e144c993a87b2fa-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/MADANI.TV.HD/index.m3u8?token=9c8ecefda8b70b041ff00cd3b7034934864d617d-3fc0aae3835d56ea9d678410e90c42fd-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "41",
       "name": "MN PLUS",
       "stream_id": "36",
       "logo": "http://103.144.89.251/assets/images/MN PLUS1745040057.png",
-      "m3u8_url": "http://103.144.89.251:8082/MN.PLUS.HD/index.m3u8?token=29648974fb9bbaafa3ad9cbc64d2d9a619051f42-1ac90b1c798e583ca69b6ccdb7090797-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/MN.PLUS.HD/index.m3u8?token=6a87e934c1a9fa76dae78b517c5e5df9d06b528f-0ca139bdba28d8ebc463180815960b02-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "42",
       "name": "MNX HD",
       "stream_id": "33",
       "logo": "http://103.144.89.251/assets/images/MNX HD1745039955.png",
-      "m3u8_url": "http://103.144.89.251:8082/MNX.HD/index.m3u8?token=d35cc6f468357ad36b7be82d30b107fb95dcfe41-018430f0982ee832f22f178237f8027c-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/MNX.HD/index.m3u8?token=85e146db2d5a8a19caefcc84bebbab6177830b8e-223edfcdc24a87ae32abf6cc3c65a48e-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "43",
       "name": "MOVIES NOW HD",
       "stream_id": "39",
       "logo": "http://103.144.89.251/assets/images/MOVIES NOW HD1745040368.png",
-      "m3u8_url": "http://103.144.89.251:8082/MOVIES.NOW.HD/index.m3u8?token=80d303ac2b08ce328c57acf6b9e2a98ab73a86df-3e699eba97c36a072e5c09a2ebd5ac4c-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/MOVIES.NOW.HD/index.m3u8?token=ce5c003c28a8b792a90fa416294cb0b2a65383ad-1cb1fa5baded484d39629fbb7524efdd-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "44",
       "name": "NAGORIK",
       "stream_id": "54",
       "logo": "http://103.144.89.251/assets/images/NAGORIK1745042776.png",
-      "m3u8_url": "http://103.144.89.251:8082/NAGORIK.TV.HD/index.m3u8?token=58318362c7893bdc8d37c22986a13a17afe9f194-93492769b3c48b042bab6b40c341c0ca-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/NAGORIK.TV.HD/index.m3u8?token=c22fed150318f5900d32dfafc68a09ab8241adf2-36deb9ef21d11032529336599ea52e7c-1771952292-1771941492&remote=no_check_ip"
     },
     {
       "number": "45",
       "name": "NATGEO HD",
       "stream_id": "25",
       "logo": "http://103.144.89.251/assets/images/NATGEO HD1745038634.png",
-      "m3u8_url": "http://103.144.89.251:8082/NATGEO.HD/index.m3u8?token=080a5a137fb03d6ad2331c405e8d09b420cd0641-97e2cb7267d8b2dab9fcf8b44174af2e-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/NATGEO.HD/index.m3u8?token=63681345b1684080ab162496b19e3c38e596a0bd-495f03d03a16892653245b1bfb5989a6-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "46",
       "name": "NATGEO WILD HD",
       "stream_id": "23",
       "logo": "http://103.144.89.251/assets/images/NATGEO WILD HD1745038542.png",
-      "m3u8_url": "http://103.144.89.251:8082/NATGEO.WILD.HD/index.m3u8?token=f3b67bde7ad005e045e661005384b8408bf225b5-69c04472dcfaac053d1e485f889dac64-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/NATGEO.WILD.HD/index.m3u8?token=82d3e99887cdd404ce25cbfe05357f22ab8fd468-044c591ac77de3965a77b61d87a95cdc-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "47",
       "name": "NICK",
       "stream_id": "46",
       "logo": "http://103.144.89.251/assets/images/NICK1745041451.png",
-      "m3u8_url": "http://103.144.89.251:8082/NICK/index.m3u8?token=945b1bdba6756f687997bdb8e9fd9358836b0884-66b44dd26455f0c3b4ed467bb7a406b8-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/NICK/index.m3u8?token=389a9fe10f623015950fc9bb7bf28d588bbb09ff-b48115e117c6641de098fcd2cb6336d5-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "48",
       "name": "NICK JR",
       "stream_id": "51",
       "logo": "http://103.144.89.251/assets/images/NICK JR1745042397.png",
-      "m3u8_url": "http://103.144.89.251:8082/NICK.JR/index.m3u8?token=d95437f758e67a32c55227ade7094ea674e8866d-d31396997334912d838df31f62cdf1e8-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/NICK.JR/index.m3u8?token=8b1f16c738819ac69fe27f7d093d81d4cfa8b558-d88ea43b5fee59a29a8f0baa82cd1ca9-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "49",
       "name": "PEACE TV BANGLA",
       "stream_id": "86",
       "logo": "http://103.144.89.251/assets/images/PEACE TV BANGLA1745044480.png",
-      "m3u8_url": "http://103.144.89.251:8082/PEACE.TV.BANGLA.HD/index.m3u8?token=83b352f7e2239d4154963c032a8b18cb1a4d1a23-3e6be4e789ea7c44d6ba263e3303d3b0-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/PEACE.TV.BANGLA.HD/index.m3u8?token=a7803993fb623039c32a0cc49d61f5cfa6b47db8-ea140cc5b0b678e03dac06910c725282-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "5",
       "name": "AND PRIVE HD",
       "stream_id": "41",
       "logo": "http://103.144.89.251/assets/images/AND PRIVE HD1745040451.png",
-      "m3u8_url": "http://103.144.89.251:8082/AND.PRIVE.HD/index.m3u8?token=347ea6ed3a3b2a07a9ddf1dff5e7faf6b8942994-828188ec45ec70ba8d65ddbf0142a10e-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/AND.PRIVE.HD/index.m3u8?token=b2540dfb13d4fd644b392270519de1cbe55157fe-5b78d289822bcb4cb49605613c9544e5-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "50",
       "name": "POGO",
       "stream_id": "48",
       "logo": "http://103.144.89.251/assets/images/POGO1745041515.png",
-      "m3u8_url": "http://103.144.89.251:8082/POGO/index.m3u8?token=17dcccff71d2f07e71202d3ad603c960437996d6-cf49592a7bca3bfd851a5e8f187383a5-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/POGO/index.m3u8?token=3898e366699199be8cc1e2c50b9ef4cfea893b94-6c821f13d3b8676fe9aaf62e77b22432-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "51",
       "name": "PTV SPORTS HD",
       "stream_id": "92",
       "logo": "http://103.144.89.251/assets/images/PTV SPORTS HD1745044993.png",
-      "m3u8_url": "http://103.144.89.251:8082/PTV-SPORTS-HD/index.m3u8?token=05c78aa84a943d80364f01e00688fe9858e4262e-f801c46d851e41a4221094f07bebd4a4-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/PTV-SPORTS-HD/index.m3u8?token=7d5450f3fca4e9f868643faf9fb75e35c6dbf6a2-669770448c15280523f3b59f9a919624-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "52",
       "name": "ROMEDY NOW",
       "stream_id": "34",
       "logo": "http://103.144.89.251/assets/images/ROMEDY NOW1745039988.png",
-      "m3u8_url": "http://103.144.89.251:8082/ROMEDY.NOW/index.m3u8?token=6b19f8c22eb3b24edecaf2f6fc2ae5cb2ac52339-9e6f898d376f9adf58744870be7c8523-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/ROMEDY.NOW/index.m3u8?token=0813f058f81a41f95d0b6b8b1dc8cacb1d0aada6-4010443e0ee1120ed1f623d11c2f1650-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "53",
       "name": "SOMOY TV",
       "stream_id": "79",
       "logo": "http://103.144.89.251/assets/images/SOMOY TV1745044149.png",
-      "m3u8_url": "http://103.144.89.251:8082/SOMOY.TV.HD/index.m3u8?token=17b9b94a95998de7aeeb4c2472c37b05806da0ec-a703fee0544e84c4c844acf7f0ee8370-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/SOMOY.TV.HD/index.m3u8?token=e0d7ecfb06e6915669a845b32ffe2864dc9a14cc-83a714a85cafa8d243d2b90103a20fde-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "54",
       "name": "SONIC",
       "stream_id": "45",
       "logo": "http://103.144.89.251/assets/images/SONIC1745041154.png",
-      "m3u8_url": "http://103.144.89.251:8082/SONIC/index.m3u8?token=11385be1f89db44f291f119eafe55c12fa1bb8a8-475151da8b022101ebb2c114b6493177-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/SONIC/index.m3u8?token=4600c64a01207a400ea36cfaeb19ae9e4d194dc2-755509f03409438848a9dc5946f44e8a-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "55",
       "name": "SONY AAT",
       "stream_id": "44",
       "logo": "http://103.144.89.251/assets/images/SONY AAT1745041124.png",
-      "m3u8_url": "http://103.144.89.251:8082/SONY.AAT/index.m3u8?token=1df39e0634d6581d43ea18fafd2cc17ad9b876f3-556645bcb10a82bb66f4d7a8c96b7f8c-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/SONY.AAT/index.m3u8?token=4eb70b2584dc97bf7c080960e611901546c51aa4-b0d4c1495f6aa659817936973c952ce8-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "56",
       "name": "SONY BBC EARTH HD",
       "stream_id": "6",
       "logo": "http://103.144.89.251/assets/images/SONY BBC EARTH HD1745031522.png",
-      "m3u8_url": "http://103.144.89.251:8082/SONY.BBC.EARTH.HD/index.m3u8?token=ad75a5db400c8282e204cc7fffc0de6cfc4ac93c-c4886fd5c0f7f2667ec68ce5ad357a93-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/SONY.BBC.EARTH.HD/index.m3u8?token=7c3a17596a44a06ac2beea7517d65988284d84d0-078c43951a04c8db32e8e028b40e31aa-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "57",
       "name": "SONY ENT HD",
       "stream_id": "11",
       "logo": "http://103.144.89.251/assets/images/SONY ENT HD1745033553.png",
-      "m3u8_url": "http://103.144.89.251:8082/SONY.ENT.HD/index.m3u8?token=e408c846f398a433a87cfcf12719ca22ca6bad5a-63adb8e395bcdc1e164c7c615baef73e-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/SONY.ENT.HD/index.m3u8?token=03b6c53fefaaf0861538dcea6b0d5e7a18a0b1c1-76b3096031595e1d42d88a1b8ea49c2a-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "58",
       "name": "SONY MAX HD",
       "stream_id": "21",
       "logo": "http://103.144.89.251/assets/images/SONY MAX HD1745034069.png",
-      "m3u8_url": "http://103.144.89.251:8082/SONY.MAX.HD/index.m3u8?token=ddd9648f699c88f09a930494e1e86f3329a7c865-d77854962e48a70115ce7c7e214e4e0d-1771947112-1771936312&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/SONY.MAX.HD/index.m3u8?token=5690efe192496b7ba4b585ee597418da3d1ada76-1f87c73298e184c8f35eff13a8dd78d5-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "59",
       "name": "SONY PIX HD",
       "stream_id": "32",
       "logo": "http://103.144.89.251/assets/images/SONY PIX HD1745039925.png",
-      "m3u8_url": "http://103.144.89.251:8082/SONY.PIX.HD/index.m3u8?token=fc3e2ed051e8b4a475d5a80b4015d5b7ebe094e1-0bd7db17ad894d78c5966dffd0490ec4-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/SONY.PIX.HD/index.m3u8?token=9c2249017eafcf3c60a72f10427d70d5f40ce4bd-44a6691e3222293b031b3babaa836363-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "6",
       "name": "AND XPLORE",
       "stream_id": "61",
       "logo": "http://103.144.89.251/assets/images/AND XPLORE1745043080.png",
-      "m3u8_url": "http://103.144.89.251:8082/XPLOR.HD/index.m3u8?token=7ad4fd7afa50d7358c6f88c50d3bb2f87b63682f-77bca12e6f67a3215352ab248e2712dc-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/XPLOR.HD/index.m3u8?token=850116408cac80cf478757ff8bc85e7f740cafce-cc3d8c148240f8d1b7eaca1d6d654c5b-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "60",
       "name": "SONY SPORTS 1 HD",
       "stream_id": "74",
       "logo": "http://103.144.89.251/assets/images/sony sports 1 hd.png",
-      "m3u8_url": "http://103.144.89.251:8082/SONY.SPORTS.1HD/index.m3u8?token=1f96b1c76f39a0e5bdcf861709269cf0af24ecd6-344083d62588581fc7e93c0665a276c0-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/SONY.SPORTS.1HD/index.m3u8?token=4af649f7dbbe491b6e9f8b112df984f0e2a5778c-384ca1d619a38ac9f078a259104b1626-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "61",
       "name": "SONY SPORTS 2 HD",
       "stream_id": "29",
       "logo": "http://103.144.89.251/assets/images/sony sports 2 hd.png",
-      "m3u8_url": "http://103.144.89.251:8082/SONY.SPORTS2.HD/index.m3u8?token=0ce5fdbf4d29687c55b19432496b297c4f1e3354-1e61cb3ee58f58668afa4910f00b85ad-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/SONY.SPORTS2.HD/index.m3u8?token=6f778546c3f572a8f49b55e12cdbfbc0b7e6f530-a14c1eb081c1599ff58522edb6d245ac-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "62",
       "name": "SONY SPORTS 3",
       "stream_id": "30",
       "logo": "http://103.144.89.251/assets/images/Sony sports 3.png",
-      "m3u8_url": "http://103.144.89.251:8082/SONY.SPORTS.3/index.m3u8?token=7473d4621ff97f3718981c9ac8836c3e26611239-ba52baa3c55f1f65fb2db30102bfb3fa-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/SONY.SPORTS.3/index.m3u8?token=6914f4101959964689155014b2753e6a393953f6-afd974f3d52b1fb001fd1f9a448ec6e9-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "63",
       "name": "SONY SPORTS 4",
       "stream_id": "72",
       "logo": "http://103.144.89.251/assets/images/sony sports 4.png",
-      "m3u8_url": "http://103.144.89.251:8082/SONY.SPORTS.4/index.m3u8?token=0ed05205e7e0eadf9452f83c08f5395cb7c224d4-f54292fafba324d161b0c05d22b9b21e-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/SONY.SPORTS.4/index.m3u8?token=68b546b4f6b7455e19fe2df6bc32faf714a55edf-5b62709a91642941a7ead123e03dcd88-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "64",
       "name": "SONY SPORTS 5 HD",
       "stream_id": "101",
       "logo": "http://103.144.89.251/assets/images/sony sports 5 hd.png",
-      "m3u8_url": "http://103.144.89.251:8082/SONY-SPORTS.5HD/index.m3u8?token=c905545369a8f2ea056693c8fb867883352c63c6-42de4219021faa46238db6a9c9324d94-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/SONY-SPORTS.5HD/index.m3u8?token=4ae329c6c379085a443023e6228323a895dbe6ef-a8fcd142def06afa2b9f7ef227782382-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "65",
       "name": "SONY YAY",
       "stream_id": "93",
       "logo": "http://103.144.89.251/assets/images/SONY YAY1745045046.png",
-      "m3u8_url": "http://103.144.89.251:8082/SONY.YAY/index.m3u8?token=27253413d9cdbb52c4498aa0ef77cdf26eefdccd-eb483fd6955305d2ffba546205459eaa-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/SONY.YAY/index.m3u8?token=88f318431f80854eb0465668fbbe24a0f39c075d-4e31d9b30c12d0a937650b11205d7c71-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "66",
       "name": "SSC SPORTS",
       "stream_id": "96",
       "logo": "http://103.144.89.251/assets/images/ssc 1 hd.png",
-      "m3u8_url": "http://103.144.89.251:8082/SSC.SPORTS.1.HD/index.m3u8?token=614df60ccb659f94fdd92cc1a2a97549691e4c9a-8e7a8587968f18549b86b243dad85da1-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/SSC.SPORTS.1.HD/index.m3u8?token=e24cc09859b658f8fc7a6baae69b91ab7038b5e4-97f11c6863e9c578869db8c7611710c7-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "67",
       "name": "SSC SPORTS 5 HD",
       "stream_id": "103",
       "logo": "http://103.144.89.251/assets/images/ssc 5 hd.png",
-      "m3u8_url": "http://103.144.89.251:8082/SSC.SPORTS.5.HD/index.m3u8?token=21d245d55c50f88aa30fc98322cdf1b91abaf705-ab03494c13f40861d37192548b19e94d-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/SSC.SPORTS.5.HD/index.m3u8?token=772a245f68a499b7fc88aa6e0aee3fd7bea1bed7-de91cd6fb968084274bda9ff4449a93d-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "68",
       "name": "STAR BHARAT HD",
       "stream_id": "100",
       "logo": "http://103.144.89.251/assets/images/STAR BHARAT HD1745045255.png",
-      "m3u8_url": "http://103.144.89.251:8082/STAR.BHARAT.HD/index.m3u8?token=eed141ba3a86730f2a2fc5324800c7825ea6ff21-28b6093def42c9fa0cef45c771f8671a-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/STAR.BHARAT.HD/index.m3u8?token=19aec6ce47fe3690512be28173f25fab28a0a26c-6f62b37363332fd78fa722eb7bd19ff8-1771952293-1771941493&remote=no_check_ip"
     },
     {
       "number": "69",
       "name": "STAR GOLD 2 HD",
       "stream_id": "69",
       "logo": "http://103.144.89.251/assets/images/STAR GOLD 2 HD1745043441.png",
-      "m3u8_url": "http://103.144.89.251:8082/STAR.GOLD2.HD/index.m3u8?token=e4a3825ebdd97a56c44989ca11e37317f41af9e5-7b9646b846ec6c3067447c939068998e-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/STAR.GOLD2.HD/index.m3u8?token=e8a34e39c3181ca2e0bd241c86bce6329bcae1b4-f2ca7908a7035b9ab4597fce199ce11e-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "7",
       "name": "ANIMAL PLANET HD",
       "stream_id": "26",
       "logo": "http://103.144.89.251/assets/images/ANIMAL PLANET HD1745038671.png",
-      "m3u8_url": "http://103.144.89.251:8082/ANIMAL.PLANET.HD/index.m3u8?token=b2d3f3791b31fdd30006037706408e0bdfbe63de-bca411e34944abad46d8c961d039b929-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/ANIMAL.PLANET.HD/index.m3u8?token=f80b908a7bb40c8cf87170c09f27f4f6e9a2be72-9456337fa9dafa025ac6a5dbb8bf2bce-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "70",
       "name": "STAR GOLD HD",
       "stream_id": "20",
       "logo": "http://103.144.89.251/assets/images/STAR GOLD HD1745034037.png",
-      "m3u8_url": "http://103.144.89.251:8082/STAR.GOLD.HD/index.m3u8?token=a35e55a568eae7efb50af08f7bc6e7526605ee9b-f30b49b61bf6d2abdd82342543f345cf-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/STAR.GOLD.HD/index.m3u8?token=c70c7154051ae4ef04dd5bb721a105b59af90d67-010d62ba9cabdb84e44248488fae12c3-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "71",
       "name": "STAR GOLD SELECT HD",
       "stream_id": "71",
       "logo": "http://103.144.89.251/assets/images/STAR GOLD SELECT HD1745043508.png",
-      "m3u8_url": "http://103.144.89.251:8082/STAR.GOLD.SEL.HD/index.m3u8?token=47726c27684eb72ee606c58144a1b8f271643ff9-9a406b779c2788797e8767e99a352bfc-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/STAR.GOLD.SEL.HD/index.m3u8?token=eb7c6f8e382675d296331a04b30aee2513d454a7-f52c185fbbd9d59778829db7e50eb1ec-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "72",
       "name": "STAR JALSHA HD",
       "stream_id": "18",
       "logo": "http://103.144.89.251/assets/images/STAR JALSHA HD1745033819.png",
-      "m3u8_url": "http://103.144.89.251:8082/STAR.JALSHA.HD/index.m3u8?token=38e552b9ff74e098652a312dcbe3b6b47de22f9e-f967f7af03149af35da6474b7d179720-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/STAR.JALSHA.HD/index.m3u8?token=ed26c9e69fff5823bc62073c3b75f24b2328dd1a-78819b4e3101039e5074db80dc4d02f5-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "73",
       "name": "STAR MOVIES HD",
       "stream_id": "38",
       "logo": "http://103.144.89.251/assets/images/STAR MOVIES HD1745040174.png",
-      "m3u8_url": "http://103.144.89.251:8082/STAR.MOVIES.HD/index.m3u8?token=73197313d1c1f9ce535bbddae520a540f766e8c1-0e17c913c2a9a69f54483e06c86aa86d-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/STAR.MOVIES.HD/index.m3u8?token=5f501e9e77fe9db45b2ad433daa23e26bcfe7a45-febac6f1949b7d6f37fdf5517ce53e24-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "74",
       "name": "STAR MOVIES SELECT HD",
       "stream_id": "27",
       "logo": "http://103.144.89.251/assets/images/STAR MOVIES SELECT HD1745038723.png",
-      "m3u8_url": "http://103.144.89.251:8082/STAR.MOVIES.SEL.HD/index.m3u8?token=7ebdeb3de0ca621dcce09714a2661378e1c0dc8a-ad5f0dffd25716ffc62241e22da162de-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/STAR.MOVIES.SEL.HD/index.m3u8?token=22718022c86de67cfb6ec498c7a7496074e79ddc-c9ecc690cbc4a8057b5a1f614316dd3d-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "75",
       "name": "STAR PLUS HD",
       "stream_id": "24",
       "logo": "http://103.144.89.251/assets/images/STAR PLUS HD1745038577.png",
-      "m3u8_url": "http://103.144.89.251:8082/STAR.PLUS.HD/index.m3u8?token=52bce80e4ac080cbabc5a21d9b9d6e5b9d81eaf0-9abdff4cc0569ae627b935f4d2f93e8c-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/STAR.PLUS.HD/index.m3u8?token=bd6404b7764c5da763764c3fefdcbdbd7a0fd3b0-06877122644f936fffecacf871627e49-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "76",
       "name": "STAR SELECT 1 HD",
       "stream_id": "28",
       "logo": "http://103.144.89.251/assets/images/STAR SELECT 1 HD1745038777.png",
-      "m3u8_url": "http://103.144.89.251:8082/STAR.SPORTS-SEL1.HD/index.m3u8?token=d7a2fec4a45b9ab8a1bc41fc36a61699ded4f195-2356cae2ad60be1e5302e1a68c61fb4e-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/STAR.SPORTS-SEL1.HD/index.m3u8?token=1a454ba7703884fa4d3a1b1e98dc6582ca4fc53a-1927498f83a222669deb21bdb41660ad-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "77",
       "name": "STAR SPORTS 1 HD",
       "stream_id": "2",
       "logo": "http://103.144.89.251/assets/images/STAR SPORTS 1 HD1744991778.png",
-      "m3u8_url": "http://103.144.89.251:8082/STAR.SPORTS1.HD/index.m3u8?token=23bf354c44e63b15fc79e49f90c39a07b869d6c9-8e7f0398972cab14a7a02a036ff5d4ee-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/STAR.SPORTS1.HD/index.m3u8?token=f11ad86b59d912edce849dc63061bdf614e3c63d-ed07b9b3640b10d4fb5edcf48fbafdc3-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "78",
       "name": "STAR SPORTS 2 HD",
       "stream_id": "3",
       "logo": "http://103.144.89.251/assets/images/STAR SPORTS 2 HD1744991842.png",
-      "m3u8_url": "http://103.144.89.251:8082/STAR.SPORTS2.HD/index.m3u8?token=0154aaa99ec222a5405a1b916e49f8ed7f2816af-5e8668a9fce9b1f88568f6a99e6e6c13-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/STAR.SPORTS2.HD/index.m3u8?token=6cb1d40f546b2f811eb78ded77cb7d7b432aa31e-f7f0c04194694c6a0c0c0c83849e67b4-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "79",
       "name": "STAR SPORTS 3",
       "stream_id": "31",
       "logo": "http://103.144.89.251/assets/images/STAR SPORTS 31745039893.png",
-      "m3u8_url": "http://103.144.89.251:8082/STAR-SPORTS.3/index.m3u8?token=a779679a92850a8c561424dbe5df6345c2d50635-86244c96d99a6119922dfc0c19871c5d-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/STAR-SPORTS.3/index.m3u8?token=c363cf5dfe598bd333a4903e170476fad8840cf0-e7f44991779717856de21a0215ed7688-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "8",
       "name": "ATN BANGLA",
       "stream_id": "80",
       "logo": "http://103.144.89.251/assets/images/ATN BANGLA1745044183.png",
-      "m3u8_url": "http://103.144.89.251:8082/ATN.BANGLA.HD/index.m3u8?token=59afa0c2e1053721f84702bf6dd723a3c3a12062-404d55cd7da813e08aa101702fe695bd-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/ATN.BANGLA.HD/index.m3u8?token=9be2269328b7751497602f0f5d2162b155684e2a-ac4b645737338af7f6d5e49b984c6bbc-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "80",
       "name": "STAR SPORTS SELECT 2 HD",
       "stream_id": "16",
       "logo": "http://103.144.89.251/assets/images/STAR SPORTS SELECT 2 HD1745033722.png",
-      "m3u8_url": "http://103.144.89.251:8082/STAR.SPORTS.SEL.2.HD/index.m3u8?token=81070318dc8bc8a73ec5cf197b262f2380b59ee6-063b96860c477ced3d9ad6a2f5b7dd89-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/STAR.SPORTS.SEL.2.HD/index.m3u8?token=56d62385bb59673e5b4a5cd2f673b00a20563563-93dd42206e7e5e4d04487ea925ca0361-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "81",
       "name": "SUN BANGLA HD",
       "stream_id": "17",
       "logo": "http://103.144.89.251/assets/images/SUN BANGLA HD1745033791.png",
-      "m3u8_url": "http://103.144.89.251:8082/SUN.BANGLA.HD/index.m3u8?token=c3967cc0ba37c03059a45a5f8dbe182edb3fda3d-97321aca17d47d70dee5eb85e8edff31-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/SUN.BANGLA.HD/index.m3u8?token=583b8ac4a6e955efa6ec73fc7dc491820d3a17c7-94e0e041b34cb71d4487fa8fd0958615-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "82",
       "name": "SUPER HUNGAMA",
       "stream_id": "75",
       "logo": "http://103.144.89.251/assets/images/SUPER HUNGAMA1745044022.png",
-      "m3u8_url": "http://103.144.89.251:8082/SUPER.HUNGAMA/index.m3u8?token=b4861d05ef44575226cc49e1ec9a895c46115628-dc1a4a8967599070430a644979ed5eb3-1771947113-1771936313&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/SUPER.HUNGAMA/index.m3u8?token=5c5e6d296bb53897d442e769035a789b574d65a7-3adc282f93ec6a8c5a2f5404ed623e42-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "83",
       "name": "T SPORTS",
       "stream_id": "1",
       "logo": "http://103.144.89.251/assets/images/T SPORTS1744972630.png",
-      "m3u8_url": "http://103.144.89.251:8082/T-SPORTS-HD/index.m3u8?token=40159f66181ec60fcf904c2d6400b45466b78fea-7180959ff523a00df4a0b79dc4b77034-1771947114-1771936314&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/T-SPORTS-HD/index.m3u8?token=59eb4cba6b9963dcf8346553e2324a08fd281f81-7d2c1e04800dfdc0db94ba48cd77f385-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "84",
       "name": "TLC HD",
       "stream_id": "9",
       "logo": "http://103.144.89.251/assets/images/TLC HD1745033484.png",
-      "m3u8_url": "http://103.144.89.251:8082/TLC.HD/index.m3u8?token=6725d195af16cd13a82278616d90f0a75cf02e87-0a55e89b6ee53f9b85a594019f2da080-1771947114-1771936314&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/TLC.HD/index.m3u8?token=22895e57aab67a9a68572a91bccd06e93b6e91eb-cca4f493cc9711ee7ea3d3fa149c249a-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "85",
       "name": "TRAVEL XP",
       "stream_id": "62",
       "logo": "http://103.144.89.251/assets/images/TRAVEL XP1745043118.png",
-      "m3u8_url": "http://103.144.89.251:8082/TRAVELXP.HD/index.m3u8?token=497398f36890088c0a351c797e7f931a39b867fe-6b394592ed4325d50b0ce8ba29e7c764-1771947114-1771936314&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/TRAVELXP.HD/index.m3u8?token=1b2eee5d922217b541333ac537dd50aeaff1f6a7-0e95a534721a6e407e992ea98bae2366-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "86",
       "name": "ZEE BANGLA CINEMA",
       "stream_id": "43",
       "logo": "http://103.144.89.251/assets/images/ZEE BANGLA CINEMA1745040996.png",
-      "m3u8_url": "http://103.144.89.251:8082/ZEE.BANGLA.CINEMA/index.m3u8?token=95ab8cde764ac3f837a0b232d0d112436a8840b0-553f6b1062fa1d836ec2af98c6229ba6-1771947114-1771936314&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/ZEE.BANGLA.CINEMA/index.m3u8?token=9558c303c1a4600652b254aab5871bfb41870838-c6717a2bb9ee6f2ce9e5a1e530e47698-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "87",
       "name": "ZEE BANGLA HD",
       "stream_id": "14",
       "logo": "http://103.144.89.251/assets/images/ZEE BANGLA HD1745033633.png",
-      "m3u8_url": "http://103.144.89.251:8082/ZEE.BANGLA.HD/index.m3u8?token=32dafebc8f50923bac6647a8a0020bde9cfbdd56-bd7c535a420d29310591457e378604b8-1771947114-1771936314&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/ZEE.BANGLA.HD/index.m3u8?token=cc2b7743ad498492f2b331c55cf027d758da3ebb-31c9fe316681eeb13e313fcd0e1e29d7-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "88",
       "name": "ZEE CAFE HD",
       "stream_id": "37",
       "logo": "http://103.144.89.251/assets/images/ZEE CAFE HD1745040102.png",
-      "m3u8_url": "http://103.144.89.251:8082/ZEE.CAFE.HD/index.m3u8?token=3b1327a86044bb79f6ea22036b1fe3a07fa510fe-5ed90590d08a9c8970ad186b8a343f0b-1771947114-1771936314&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/ZEE.CAFE.HD/index.m3u8?token=49593322d60ca7d661cb3708e465c0f3c3cdce72-8c57533fb63778801d6f847ef65307fe-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "89",
       "name": "ZEE CINEMA HD",
       "stream_id": "13",
       "logo": "http://103.144.89.251/assets/images/ZEE CINEMA HD1745033602.png",
-      "m3u8_url": "http://103.144.89.251:8082/ZEE.CINEMA.HD/index.m3u8?token=7910e18bf7a5693c0a92c397739f548643dd265a-3bff1b22c7676e895650975382e8114e-1771947114-1771936314&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/ZEE.CINEMA.HD/index.m3u8?token=ec4ef90865015a6f1df37a49648f50b92c883317-2a8a2a0d5109cbfb76d4c511a94eba16-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "9",
       "name": "ATN NEWS",
       "stream_id": "95",
       "logo": "http://103.144.89.251/assets/images/ATN NEWS1745045113.png",
-      "m3u8_url": "http://103.144.89.251:8082/ATN.NEWS.HD/index.m3u8?token=3c88a8fc58a96d14eb1bba5735c0906c1eeb26fe-3ea25f9f15877d31155d8601d065fde2-1771947114-1771936314&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/ATN.NEWS.HD/index.m3u8?token=c65195be109157c51d7a71b2f1f3d14af1529370-0763fb9505648d485fec254a3215b2f3-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "90",
       "name": "ZEE TV HD",
       "stream_id": "7",
       "logo": "http://103.144.89.251/assets/images/ZEE TV HD1745033383.png",
-      "m3u8_url": "http://103.144.89.251:8082/ZEE.TV.HD/index.m3u8?token=2c3c1c051319082582b2a0611097865c863ecaaa-172fc37e1cc86ef9f1cfff986d01c037-1771947114-1771936314&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/ZEE.TV.HD/index.m3u8?token=8c79d4fe6fb2596e8776a8e21ccca0b928852e15-6de02bbbd8388bc1767ac9a7b20b50f4-1771952294-1771941494&remote=no_check_ip"
     },
     {
       "number": "91",
       "name": "ZING",
       "stream_id": "53",
       "logo": "http://103.144.89.251/assets/images/ZING1745042718.png",
-      "m3u8_url": "http://103.144.89.251:8082/ZING.MUSIC/index.m3u8?token=e6c37c41432e797cf6cb3a2c8ddd161433105d05-3a252f516b2c2f11b04594516494a286-1771947114-1771936314&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/ZING.MUSIC/index.m3u8?token=a9de01ac89cfbb93248d17d06fd08985ec97eb3f-c4701f9bcfe787eb2743ec86f61849ca-1771952295-1771941495&remote=no_check_ip"
     },
     {
       "number": "92",
       "name": "ZOOM",
       "stream_id": "42",
       "logo": "http://103.144.89.251/assets/images/ZOOM1745040961.png",
-      "m3u8_url": "http://103.144.89.251:8082/ZOOM.MUSIC/index.m3u8?token=1e99b744faecf91b3e8a7f6ef4eb8750bedafdb2-9a7d28be8041097b6744080362c0a89d-1771947114-1771936314&remote=no_check_ip"
+      "m3u8_url": "http://103.144.89.251:8082/ZOOM.MUSIC/index.m3u8?token=a9888a610a21e5d1388cca694d7fbc1abb392787-bbc1ac04cee7a7f04e95bcab615fb9b3-1771952295-1771941495&remote=no_check_ip"
     }
   ]
 }
